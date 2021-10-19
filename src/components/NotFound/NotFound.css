@@ -1,0 +1,8 @@
+.img{
+    width: 100%;
+}
+.btn-back{
+    padding: 10px 10px;
+    background-color: rgb(229, 194, 194);
+    border-radius: 10px;
+}

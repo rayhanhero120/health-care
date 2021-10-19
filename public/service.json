@@ -1,0 +1,38 @@
+[
+    {
+        "id": 1,
+        "Name": "Dental Care",
+        "description": "health care about the people of any ages our services is very good about technique there is nothing about to worry at any sequence ",
+        "img": "https://i.ibb.co/rmm5wwH/Applying-dental-instruments-Serious-dark-haired-female-doctor-using-a-dental-mirror-while-leaning-ov.jpg"
+    },
+    {
+        "id": 2,
+        "Name": "Virus Threat Protection",
+        "description": "health care about the people of any ages our services is very good about technique there is nothing about to worry at any sequence ",
+        "img": "https://i.ibb.co/RcB33BR/virus.jpg"
+    },
+    {
+        "id": 3,
+        "Name": "Brain Operation",
+        "description": "health care about the people of any ages our services is very good about technique there is nothing about to worry at any sequence ",
+        "img": "https://i.ibb.co/6v68h5P/In-Control-Room-Doctor-and-Radiologist-Discuss-Diagnosis-while-Watching-Procedure-and-Monitors-Showi.jpg"
+    },
+    {
+        "id": 4,
+        "Name": "Ear Cheakup",
+        "description": "health care about the people of any ages our services is very good about technique there is nothing about to worry at any sequence ",
+        "img": "https://i.ibb.co/nsQMr7b/Be-positive-Attractive-female-keeping-smile-on-her-face-holding-her-neck-straight-looking-upwards.jpg"
+    },
+    {
+        "id": 5,
+        "Name": "Eyes lences",
+        "description": "health care about the people of any ages our services is very good about technique there is nothing about to worry at any sequence ",
+        "img": "https://i.ibb.co/DQDQP3q/Medicine-Hospital-Medical-Clinic-Ophtalmologist-Exam.jpg"
+    },
+    {
+        "id": 6,
+        "Name": "Kidney Dialysis",
+        "description": "health care about the people of any ages our services is very good about technique there is nothing about to worry at any sequence ",
+        "img": "https://i.ibb.co/Xp5wLVf/kidney.jpg"
+    }
+]

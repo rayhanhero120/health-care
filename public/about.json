@@ -1,0 +1,38 @@
+[
+    {
+        "id": 1,
+        "Name": "One of the best Hospital",
+        "description": "health care about the people of any ages our services is very good about technique there is nothing about to worry at any sequence ",
+        "img": "https://i.ibb.co/yRD9RKN/Modern-Hospital-Building.jpg"
+    },
+    {
+        "id": 2,
+        "Name": "Neat and Clean Bed for paitent",
+        "description": "health care about the people of any ages our services is very good about technique there is nothing about to worry at any sequence ",
+        "img": "https://i.ibb.co/FV0VKqJ/bed.jpg"
+    },
+    {
+        "id": 3,
+        "Name": "Emergency Ambulence Services",
+        "description": "health care about the people of any ages our services is very good about technique there is nothing about to worry at any sequence ",
+        "img": "https://i.ibb.co/PCg7ZnH/ambulence.jpg"
+    },
+    {
+        "id": 4,
+        "Name": "Sit for Gurdian",
+        "description": "health care about the people of any ages our services is very good about technique there is nothing about to worry at any sequence ",
+        "img": "https://i.ibb.co/xLy3gsY/sit.jpg"
+    },
+    {
+        "id": 5,
+        "Name": "Dicrect Communication",
+        "description": "health care about the people of any ages our services is very good about technique there is nothing about to worry at any sequence ",
+        "img": "https://i.ibb.co/JFgSHX1/telephone.jpg"
+    },
+    {
+        "id": 6,
+        "Name": "Emergency Contact",
+        "description": "health care about the people of any ages our services is very good about technique there is nothing about to worry at any sequence ",
+        "img": "https://i.ibb.co/8x9LgwW/cont.jpg"
+    }
+]
